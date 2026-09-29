@@ -1,0 +1,6 @@
+{
+  "name": "TRIUMPH HALL — Банкетный зал в Атырау",
+  "description": "Официальный сайт банкетного зала TRIUMPH HALL в Атырау. Премиальные банкеты на 256–450 гостей, праздничные меню от 7 000 ₸, LED-экран, светозвуковая аппаратура и калькулятор стоимости банкета.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
